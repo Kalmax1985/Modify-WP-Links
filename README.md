@@ -46,7 +46,8 @@ N/A
 == Upgrade Notice ==
 
 = 1.0 =
-Upgrade notices describe the reason a user should upgrade.  No more than 300 characters.
+New bug fix to work with wp latest version.
+supports buddypress
 
 = 0.5 =
-This version fixes a security related bug.  Upgrade immediately.
+Made for my website.
